@@ -1,3 +1,4 @@
 # Honolulu Community College 
 ### Project 2 
-Fall 2012 __Rails portion __ by :  _Kaiona Wood_
+This is project 2 for CENT 285 at Honolulu Community College
+__First Ruby on Rails Application__ by _Kaiona Wood_
